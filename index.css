@@ -35,13 +35,13 @@ a {
     color: white;
 }
 
+a:visited {
+    color: blueviolet;
+}
+
 a:hover {
     color: rgb(126, 126, 135);
     text-decoration: none;
-}
-
-a:visited {
-    color: blueviolet;
 }
 
 
